@@ -2390,14 +2390,15 @@ header {
 }
 
 .card__p {
-  margin-top: 7rem;
+  margin-top: 8.5rem;
   text-align: center;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .card__button {
   outline: none;
   margin-bottom: 10%;
+  margin-top: -5rem;
 }
 
 .wish-items {
